@@ -6,7 +6,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "engines": {
+    "node" : "6.10.1"
+}
+  "author": "baymax",
   "license": "ISC",
   "dependencies": {
     "express": "^4.15.2"
