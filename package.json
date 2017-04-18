@@ -8,7 +8,7 @@
   },
   "engines": {
     "node" : "6.10.1"
-}
+},
   "author": "baymax",
   "license": "ISC",
   "dependencies": {
