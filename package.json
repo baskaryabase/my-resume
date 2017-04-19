@@ -6,10 +6,8 @@
   "scripts": {
      "start": "app.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/smilysyndrella/my-resume.git"
-  },
+  "repository": 
+    "git+https://github.com/smilysyndrella/my-resume.git",
   "author": "baymax",
   "license": "ISC",
   "bugs": {
