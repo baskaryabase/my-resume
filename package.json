@@ -7,7 +7,7 @@
      "start": "app.js"
   },
   "repository": 
-    "git+https://github.com/smilysyndrella/my-resume.git",
+    "git://github.com/smilysyndrella/my-resume.git",
   "author": "baymax",
   "license": "ISC",
   "bugs": {
