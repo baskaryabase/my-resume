@@ -7,7 +7,7 @@ var port = process.env.PORT || 2000
 
 app.get("/", function(req, res){
     
-    res.render(index.html);
+    res.dend(__dirname+"/public/index.html");
     
 });
 
