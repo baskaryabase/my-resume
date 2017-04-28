@@ -7,8 +7,7 @@ var port = process.env.PORT || 2000
 
 app.get("/", function(req, res){
     
-    res.send(__dirname+"/Public/index.html");
-    
+   res.send(__dirname+'/Public/index.html');
 });
 
 app.listen(port, function(){
